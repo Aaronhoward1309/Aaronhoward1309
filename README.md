@@ -1,5 +1,7 @@
-## Hi there 👋
-
+ Hi there 👋
+I'm Aaron, a cyber security student based in London.
+I have strong proggraming skills as well as strong computer science consepts and strong cyber security skills. 
+I would be a great fit for your IT company. 
 <!--
 **Aaronhoward1309/Aaronhoward1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
