@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Computer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHlob3E0Z3B6bm9pZ3JpZzJpZ3JpZ3JpZ3JpZ3JpZ3JpZ3ImZXA9djFfaW50ZXJuYWxfZ2lmX2J5_idJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif)
 Hi there, I'm Aaron Howard. 👋<br>I’m a Computer Science & Cybersecurity student based in London, focused on the intersection of software development and system defense. I specialize in building secure, automated solutions and solving complex logic puzzles in the digital space.<br><br>🔭 Current Focus: Developing secure automation tools and mastering application security.<br><br>🌱 Learning Path: Expanding my ecosystem with Java, JavaScript, and Linux administration.<br><br>⚡ Goal: Bridging the gap between robust code and impenetrable systems.<br><br>Explore my repositories below to see my completed projects in action.
 
 
